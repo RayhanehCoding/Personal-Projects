@@ -1,5 +1,5 @@
 ## Hi there 👋
-I recently graduated with my master's in experimental particle physics on the SNO+ experiment, located at SNOLAB, 2m underground. That's right. The lab is located 2000 meters below the surface level. During my time, I learned big data analysis and model building. I am currently enhancing my coding skills and financial knowledge through doing projects.  
+I recently graduated with my master's in experimental particle physics on the SNO+ experiment, located at SNOLAB, 2km underground. That's right. The lab is located 2000 meters below the surface level. During my time, I learned big data analysis and model building. I am currently enhancing my coding skills and financial knowledge through doing projects.  
 
 My next project is working on estimating the financial risk of a portfolio of stocks. Using the Monte Carlo simulation technique and studying the correlation between different random variables associated with the portfolio and the market.
 <!--
