@@ -1,7 +1,5 @@
 ## Hi there 👋
-This repository contains my personal projects in finance, quant, energy, and data analysis. 
-
-My next project is working on estimating the financial risk of a portfolio of stocks. Using the Monte Carlo simulation technique and studying the correlation between different random variables associated with the portfolio and the market.
+This repository contains my projects in finance, quant, energy, and data analysis.
 <!--
 **RayhanehCoding/RayhanehCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
